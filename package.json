@@ -1,0 +1,2 @@
+{"name":"discord-bot-maker-bot","author":"Robert Borghese","scripts": {"start": "node bot.js"},
+"main":"bot.js","version":"1.5.10","dependencies":{"discord.js":"^11.5.1","fstorm":"latest","jimp":"latest"},"is-music-bot":true}
